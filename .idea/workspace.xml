@@ -1,37 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="01ecda24-4bb8-4b89-8d37-9ae23d6a1eb0" name="Changes" comment="" />
+    <list default="true" id="01ecda24-4bb8-4b89-8d37-9ae23d6a1eb0" name="Changes" comment="create directory for my app">
+      <change afterPath="$PROJECT_DIR$/udemyreact/src/components/app-filter/app-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemyreact/src/components/employees-add-form/employees-add-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemyreact/src/components/employees-list-item/employees-list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemyreact/src/components/employees-list/employees-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemyreact/src/components/search-panel/search-panel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/components/app-filter/app-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/components/app-filter/app-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/components/employees-add-form/employees-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/components/employees-add-form/employees-add-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/components/employees-list-item/employees-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/components/employees-list-item/employees-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/components/employees-list/employees-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/components/employees-list/employees-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/components/search-panel/search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemyreact/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemyreact/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ti4n0W6DGdSapkxD4Jabcq00JR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,11 +75,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691512730627</updated>
-      <workItem from="1691512731632" duration="581000" />
+      <workItem from="1691512731632" duration="5104000" />
+      <workItem from="1691520348136" duration="3973000" />
+      <workItem from="1691574641929" duration="4980000" />
     </task>
+    <task id="LOCAL-00001" summary="create master branch for udemyreact">
+      <created>1691513378058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691513378058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create directory for my app">
+      <created>1691520227620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691520227620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create master branch for udemyreact" />
+    <MESSAGE value="create directory for my app" />
+    <option name="LAST_COMMIT_MESSAGE" value="create directory for my app" />
   </component>
 </project>
